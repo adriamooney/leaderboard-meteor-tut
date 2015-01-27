@@ -1,0 +1,6 @@
+li {
+	cursor:pointer;
+}
+.selected{
+    background-color: yellow;
+}
